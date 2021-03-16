@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba403e0b-2794-4311-acd6-457b513c74d8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gJPrLccSb7erI7KRKpKudC2Me9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="spread-operator.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/spread-operator.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.spread-operator.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba403e0b-2794-4311-acd6-457b513c74d8" name="Default Changelist" comment="" />
+      <created>1597829923832</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597829923832</updated>
+      <workItem from="1597829925557" duration="13127000" />
+      <workItem from="1598630817365" duration="4676000" />
+      <workItem from="1598730703924" duration="1617000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1515" height="214" key="GridCell.Tab.0.bottom" timestamp="1598730659871">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="1515" height="214" key="GridCell.Tab.0.bottom/0.30.1536.834@0.30.1536.834" timestamp="1598730659871" />
+    <state width="1515" height="214" key="GridCell.Tab.0.center" timestamp="1598730659871">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="1515" height="214" key="GridCell.Tab.0.center/0.30.1536.834@0.30.1536.834" timestamp="1598730659871" />
+    <state width="1515" height="214" key="GridCell.Tab.0.left" timestamp="1598730659871">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="1515" height="214" key="GridCell.Tab.0.left/0.30.1536.834@0.30.1536.834" timestamp="1598730659871" />
+    <state width="1515" height="214" key="GridCell.Tab.0.right" timestamp="1598730659871">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="1515" height="214" key="GridCell.Tab.0.right/0.30.1536.834@0.30.1536.834" timestamp="1598730659871" />
+  </component>
+</project>
